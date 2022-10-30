@@ -2,7 +2,7 @@
 ## Latihan 1
 ### Penggunaan End
 #### - Pengunaan end pada Python berfungsi untuk memberi parameter (pemisah) antara quotes yang kita buat 
-![Gambar1](Pk3/latihan1.1.png)
+![Gambar1](yyyy/latihan1.1.png)
 ![Gambar1](yyyy/latihan1.2.png)
 ## Pengunaan Separator
 #### - Pengunaan separator pada Python berfungsi sebagai pemisah setiap variabel yang telah diberi nilai 
